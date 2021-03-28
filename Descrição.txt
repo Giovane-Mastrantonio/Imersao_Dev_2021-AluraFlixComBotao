@@ -1,0 +1,17 @@
+ALURAFLIX COM BOTÃO
+
+*REFATORANDO O ALURAFLIX COM FUNÇÕES
+
+Neste programa, vamos refatorar o projeto do AluraFlix anterior para continuar integrando o HTML e o JavaScript, também fazendo com que as partes certas do programa funcionem exatamente no momento certo.
+
+Além do código executar somente quando queremos, também vamos ver formas diferentes de usar o JavaScript para acessar o HTML e deixar a visualização mais interessante.
+
+Conteúdo detalhado:
+
+Sintaxe e criação de funções no JavaScript;
+Integrando funções criadas no JavaScript com o HTML que está sendo exibido na tela;
+Condicionando a execução (ou "chamada") de uma função a um clique em um botão na tela;
+Usando o JavaScript para acessar o que está sendo exibido na tela e pegar valores digitados pelo usuário com querySelector() e .value;
+Passar informações que as funções precisam para funcionar, através dos parâmetros;
+Utilizar o .endsWith() para verificar se um texto termina com determinados caracteres;
+Ver mais um exemplo de reatribuição de variável para "limpar" o texto do campo com "".
